@@ -14,4 +14,4 @@ Este projeto é uma aplicação web que permite aos usuários fazer upload de m�
 
 - **PHP**: Usado para o backend da aplicação e a lógica do servidor.
 - **MySQL**: Banco de dados relacional para armazenar informações sobre as músicas e usuários.
-- **HTML/CSS/JavaScript**: Para o frontend da aplicação e a interface do usuário.
+- **ReactJs Vite**: Para o frontend da aplicação e a interface do usuário.
