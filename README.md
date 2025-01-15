@@ -1,6 +1,6 @@
 # Music Upload & Streaming Application
 
-**Status:** Em desenvolvimento 🚧
+**Status:** Em pausa 🛑
 
 Este projeto é uma aplicação web que permite aos usuários fazer upload de músicas e escutá-las diretamente no navegador. O sistema está sendo desenvolvido utilizando **PHP** para o backend e **MySQL** para o gerenciamento de dados.
 
